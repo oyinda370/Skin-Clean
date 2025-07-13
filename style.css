@@ -1,16 +1,9 @@
-nav{
 
-}
-body{
-
-}
 nav>div>div>a{
     text-decoration: none;
     color: black;
 }
 header{
-    /* background-image: url("images/image4c.jpg"); */
-    /*width: 1200px;*/
     height: 700px;
     padding: 5px 20px;
     margin-top: 30px;
@@ -27,26 +20,16 @@ main>button{
     margin: 30px 30px;
     padding: 30px;
 }
-
-/* .offer1{
-    position: absolute;
-}
-.offer2{
-    position: relative;
-} */
 .flex2{
     display: flex;
     padding: 60px 0px;
 }
-
 .flex2>div>img{
     height: 350px;
     width: auto;
     margin-right: 20px;
 }
-
 .cream>img{
-    /* width: 200px; */
     height: 80px;
 }
 .products{
@@ -59,8 +42,6 @@ main>button{
 div.col-4{
     margin: 30px 0px;
 }
-
-
  .discount{
     margin: 80px 0px;
  }
@@ -69,18 +50,14 @@ div.col-4{
 }
 .a{
     text-decoration: none;
-    /* padding-top: 80px; */
     font-size: 25px;
     color: black;
     font-weight: bold;
 }
-
 .anti_aging>img{
     width: 450px;
-    /* height: 200px; */
     margin: -50px 0px 0px 30px;
 }
-
 .anti_aging_b{
     margin-top: 30px;
     padding: 70px;
@@ -88,28 +65,21 @@ div.col-4{
 button.anti_aging{
     display: block;
     margin: auto;
-    
 }
-
 .quality{
     background-color: rgb(250,240,230);
 }
-
 .quality_cont{
     margin: 80px 0px 0px 0px;
     text-align: center;
 }
-
 .aloe1{
     align-items: center;
 }
-
 #email{
     width: 300px;
     border-radius: 0px;
 }
-
-
 .update{
     margin: 150px 0px 0px 0px;
 }
@@ -119,23 +89,18 @@ footer{
     padding: 30px;
 }
 footer>main>div>ul{
-    list-style-type: none;
-    
+    list-style-type: none; 
 }
 .explore{
     margin: 30px 0px;
 }
 .explore_li{
-    list-style-type: none;
-    
+    list-style-type: none;  
 }
 .explore_li>li>a{
     text-decoration: none;
     color: black;
-
 }
-
 .explore>h5{
     padding-left: 30px;
 }
-
